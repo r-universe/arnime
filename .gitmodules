@@ -1,4 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/arnime/arnime.r-universe.dev
 	branch = HEAD
+[submodule "givp"]
+	path = givp
+	url = https://github.com/Arnime/grasp_ils_vnd_pr
+	branch = main
+	subdir = r
