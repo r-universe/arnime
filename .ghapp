@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["Arnime.r-universe.dev"]
+  "repositories": ["grasp_ils_vnd_pr", "Arnime.r-universe.dev"]
 }
