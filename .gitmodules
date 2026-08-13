@@ -4,6 +4,6 @@
 	branch = HEAD
 [submodule "givp"]
 	path = givp
-	url = https://github.com/Arnime/grasp_ils_vnd_pr
+	url = https://github.com/Arnime/givp
 	branch = main
 	subdir = r
