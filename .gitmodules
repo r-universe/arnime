@@ -5,5 +5,4 @@
 [submodule "givp"]
 	path = givp
 	url = https://github.com/Arnime/givp
-	branch = main
 	subdir = r
